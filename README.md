@@ -7,6 +7,8 @@
 
 每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。
 
+该学习资料来源于 trekhleb https://github.com/trekhleb/javascript-algorithms.git
+
 *注意：这个项目仅用于学习和研究，**不是**用于生产环境。*
 
 ## 数据结构
